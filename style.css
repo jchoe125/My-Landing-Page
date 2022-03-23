@@ -1,7 +1,7 @@
 
 header {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: coral;
+    background-color: rgb(80, 150, 255);
     text-align: right;
     height: 100px;
     width: 100%;
@@ -9,7 +9,7 @@ header {
   }
 
 .myDiv {
-    border: 5px outset red;
+    border: 5px outset rgb(76, 0, 255);
     text-align: center
 }
 
@@ -28,6 +28,9 @@ li {
     margin-left: 20px;
   }
 
+#myheader {
+    font-weight: bold;
+}
 
 #contactinfo {
     border-style: dotted
